@@ -1,7 +1,7 @@
 # BudgetApp
 Simple javascript application that allows you to calculate your monthly budget.
 
-Try out on github pages
+## Try out on github pages
 https://mkarasinski.github.io/BudgetApp/
 
 ## Sources
